@@ -9,4 +9,5 @@ int main(){
 
     printf("Doing it wrong:");
     printf("%d minus %d equals %d\n", ten); // forgot 2 arguments
+    return 0;
 }
